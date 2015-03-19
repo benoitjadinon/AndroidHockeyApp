@@ -10,7 +10,7 @@
     <RootNamespace>AndroidHockeyApp</RootNamespace>
     <AssemblyName>AndroidHockeyApp</AssemblyName>
     <FileAlignment>512</FileAlignment>
-    <TargetFrameworkVersion>v2.3</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.0.3</TargetFrameworkVersion>
     <ReleaseVersion>
     </ReleaseVersion>
   </PropertyGroup>
